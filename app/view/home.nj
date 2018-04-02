@@ -1,0 +1,35 @@
+
+
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>醉企鹅葡萄酒丨葡萄酒慢生活方式倡导者</title>
+  <meta name="description" content="读懂你的需求，带来全球好酒，给你全新的葡萄酒慢生活方式。“醉”是一种微醺、快乐的感觉。我们鼓励像企鹅一样生活，少一些烦恼，多一些放空。Good taste, taste good.">
+  <meta name="keywords" content="葡萄酒，醉企鹅，MERRY PENGUINS，红酒，白葡萄酒，甜酒，香槟">
+  <link rel="shortcut icon " type="images/x-icon" href="http://oodr9r9i9.bkt.clouddn.com/shortcut-icon.png">
+  <base target="_blank" />
+  <link rel="stylesheet" href="http://oodr9r9i9.bkt.clouddn.com/index.css">
+
+</head>
+
+<body>
+  <div id="app"></div>
+  <script src="http://oodr9r9i9.bkt.clouddn.com/index.js"></script>
+
+  <!-- google analysis  -->
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-103569507-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</body>
+
+</html>
+
