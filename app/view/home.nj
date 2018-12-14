@@ -8,15 +8,15 @@
   <title>醉企鹅葡萄酒丨葡萄酒慢生活方式倡导者</title>
   <meta name="description" content="读懂你的需求，带来全球好酒，给你全新的葡萄酒慢生活方式。“醉”是一种微醺、快乐的感觉。我们鼓励像企鹅一样生活，少一些烦恼，多一些放空。Good taste, taste good.">
   <meta name="keywords" content="葡萄酒，醉企鹅，MERRY PENGUINS，红酒，白葡萄酒，甜酒，香槟">
-  <link rel="shortcut icon " type="images/x-icon" href="http://oodr9r9i9.bkt.clouddn.com/shortcut-icon.png">
+  <link rel="shortcut icon " type="images/x-icon" href="http://cdn.merry-penguins.com/shortcut-icon.png">
   <base target="_blank" />
-  <link rel="stylesheet" href="http://oodr9r9i9.bkt.clouddn.com/index.css">
+  <link rel="stylesheet" href="http://cdn.merry-penguins.com/index.css">
 
 </head>
 
 <body>
   <div id="app"></div>
-  <script src="http://oodr9r9i9.bkt.clouddn.com/index.js"></script>
+  <script src="http://cdn.merry-penguins.com/index.js"></script>
 
   <!-- google analysis  -->
   <script>
